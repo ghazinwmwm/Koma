@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+}
+
+.about, .features, .contact {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #ddd;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
